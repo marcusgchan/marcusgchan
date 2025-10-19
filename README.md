@@ -1,7 +1,7 @@
 ## Hi there 👋
 ⛷️
 
-### Ongoing Projects
+Ongoing Projects
 - [Memory Map](https://github.com/marcusgchan/diary)
 
 
